@@ -1,4 +1,4 @@
-# `Into to CI/CD` - Lab Graduates
+# `Into to CI/CD` - Lab Graduates test
 
 The GitHub users below ***ACED it*** on their [CI/CD lab](intro.md)! 😎
 
